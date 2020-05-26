@@ -1,0 +1,43 @@
+.App {
+  text-align: center;
+  display: table;
+  margin: 100px auto;
+  padding: 20px;
+  background-color: #ddd;
+  border: 1px solid #000
+}
+
+.facebook {
+  text-align: center;
+  padding: 0px 5px 0px 0px;
+  cursor: pointer;
+  border: none;
+  color: white;
+  background-color: #1877f2;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  border-radius: 5px;
+  font-size: 90%;
+  display: flex;
+  align-items: center;
+}
+
+.logoFace {
+  padding: 5px 5px 5px 5px;
+  width: 20px;
+  height: 20px;
+  align-items: center;
+}
+
+.logout {
+  text-align: center;
+  padding: 5px 10px 5px 10px;
+  background-color: #9b1313;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  color: white;
+  cursor: pointer;
+  border: none;
+  border-radius: 5px;
+
+}
